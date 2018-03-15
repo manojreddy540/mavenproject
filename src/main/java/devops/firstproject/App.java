@@ -4,7 +4,7 @@ package devops.firstproject;
  * Hello world!
  *
  */
-pus App 
+public class App 
 {
     public static void main( String[] args )
     {
