@@ -1,1 +1,21 @@
-this is anew jenkin file
+node {
+   def mvnHome
+   stage('Build') { // for display purposes
+      // Get some code from a GitHub repository
+     
+   }
+   stage('Unit Test') {
+      // Run the maven build
+     
+   }
+   stage('Archival') {
+     
+   }
+    stage('Dev to Deploy') {
+     
+   } 
+  
+   stage('Production') {
+     
+   }
+}
